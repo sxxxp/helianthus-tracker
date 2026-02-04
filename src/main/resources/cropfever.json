@@ -1,0 +1,137 @@
+{
+  "Wheat": {
+    "UNCOMMON": [6, "UNCOMMON"],
+    "RARE": [10, "UNCOMMON"],
+    "CRAZY RARE": [120, "UNCOMMON"],
+    "PRAY TO RNGESUS": [12, "RARE"],
+    "Profit": 6,
+    "UN": "Enchanted Wheat",
+    "RN": "Enchanted Hay Bale"
+  },
+  "Carrot": {
+    "UNCOMMON": [18, "UNCOMMON"],
+    "RARE": [42, "UNCOMMON"],
+    "CRAZY RARE": [4, "RARE"],
+    "PRAY TO RNGESUS": [12, "RARE"],
+    "Profit": 3,
+    "UN": "Enchanted Carrot",
+    "RN": "Enchanted Golden Carrot"
+  },
+  "Potato": {
+    "UNCOMMON": [18, "UNCOMMON"],
+    "RARE": [32, "UNCOMMON"],
+    "CRAZY RARE": [2, "RARE"],
+    "PRAY TO RNGESUS": [6, "RARE"],
+    "Profit": 3,
+    "UN": "Enchanted Potato",
+    "RN": "Enchanted Baked Potato"
+  },
+  "Pumpkin": {
+    "UNCOMMON": [6, "UNCOMMON"],
+    "RARE": [12, "UNCOMMON"],
+    "CRAZY RARE": [110, "UNCOMMON"],
+    "PRAY TO RNGESUS": [4, "RARE"],
+    "Profit": 10,
+    "UN": "Enchanted Pumpkin",
+    "RN": "Polished Pumpkin"
+  },
+  "Sugar Cane": {
+    "UNCOMMON": [12, "UNCOMMON"],
+    "RARE": [24, "UNCOMMON"],
+    "CRAZY RARE": [1, "RARE"],
+    "PRAY TO RNGESUS": [6, "RARE"],
+    "Profit": 4,
+    "UN": "Enchanted Sugar",
+    "RN": "Enchanted Sugar Cane"
+  },
+  "Melon": {
+    "UNCOMMON": [24, "UNCOMMON"],
+    "RARE": [48, "UNCOMMON"],
+    "CRAZY RARE": [4, "RARE"],
+    "PRAY TO RNGESUS": [12, "RARE"],
+    "Profit": 2,
+    "UN": "Enchanted Melon Slice",
+    "RN": "Enchanted Melon"
+  },
+  "Cactus": {
+    "UNCOMMON": [6, "UNCOMMON"],
+    "RARE": [18, "UNCOMMON"],
+    "CRAZY RARE": [1, "RARE"],
+    "PRAY TO RNGESUS": [6, "RARE"],
+    "Profit": 4,
+    "UN": "Enchanted Cactus Green",
+    "RN": "Enchanted Cactus"
+  },
+  "Cocoa Beans": {
+    "UNCOMMON": [6, "UNCOMMON"],
+    "RARE": [12, "UNCOMMON"],
+    "CRAZY RARE": [120, "UNCOMMON"],
+    "PRAY TO RNGESUS": [4, "RARE"],
+    "Profit": 3,
+    "UN": "Enchanted Cocoa Beans",
+    "RN": "Enchanted Cookie"
+  },
+  "Brown Mushroom": {
+    "UNCOMMON": [6, "UNCOMMON"],
+    "RARE": [12, "UNCOMMON"],
+    "CRAZY RARE": [120, "UNCOMMON"],
+    "PRAY TO RNGESUS": [16, "RARE"],
+    "Profit": 10,
+    "UN": "Enchanted Brown Mushroom",
+    "RN": "Enchanted Brown Mushroom Block"
+  },
+  "Red Mushroom": {
+    "UNCOMMON": [6, "UNCOMMON"],
+    "RARE": [12, "UNCOMMON"],
+    "CRAZY RARE": [120, "UNCOMMON"],
+    "PRAY TO RNGESUS": [16, "RARE"],
+    "Profit": 10,
+    "UN": "Enchanted Red Mushroom",
+    "RN": "Enchanted Red Mushroom Block"
+  },
+  "Nether Wart": {
+    "UNCOMMON": [18, "UNCOMMON"],
+    "RARE": [36, "UNCOMMON"],
+    "CRAZY RARE": [2, "RARE"],
+    "PRAY TO RNGESUS": [2, "RARE"],
+    "Profit": 4,
+    "UN": "Enchanted Nether Wart",
+    "RN": "Mutant Nether Wart"
+  },
+  "Moonflower": {
+    "UNCOMMON": [12, "UNCOMMON"],
+    "RARE": [24, "UNCOMMON"],
+    "CRAZY RARE": [2, "RARE"],
+    "PRAY TO RNGESUS": [6, "RARE"],
+    "Profit": 4,
+    "UN": "Enchanted Moonflower",
+    "RN": "Compacted Moonflower"
+  },
+  "Sunflower": {
+    "UNCOMMON": [12, "UNCOMMON"],
+    "RARE": [24, "UNCOMMON"],
+    "CRAZY RARE": [2, "RARE"],
+    "PRAY TO RNGESUS": [6, "RARE"],
+    "Profit": 4,
+    "UN": "Enchanted Sunflower",
+    "RN": "Compacted Sunflower"
+  },
+  "Wild Rose": {
+    "UNCOMMON": [12, "UNCOMMON"],
+    "RARE": [24, "UNCOMMON"],
+    "CRAZY RARE": [2, "RARE"],
+    "PRAY TO RNGESUS": [6, "RARE"],
+    "Profit": 4,
+    "UN": "Enchanted Wild Rose",
+    "RN": "Compacted Wild Rose"
+  },
+  "UNKNOWN": {
+    "UNCOMMON": [0, "UNCOMMON"],
+    "RARE": [0, "UNCOMMON"],
+    "CRAZY RARE": [0, "UNCOMMON"],
+    "PRAY TO RNGESUS": [0, "UNCOMMON"],
+    "Profit": 0,
+    "UN": "Unknown Item",
+    "RN": "Unknown Rare Item"
+  }
+}
